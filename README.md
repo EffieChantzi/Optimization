@@ -1,8 +1,8 @@
-# Optimization
+# Optimisation
 
 
 
-This repository consists a portfolio for the master's course "Optimization" 
+This repository consists a portfolio for the master's course "Optimisation" 
 taken during period 2 of fall semester 2014 at Uppsala University.
 
 It includes the three assignments that were implemented during this course.
